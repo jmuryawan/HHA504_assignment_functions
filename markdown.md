@@ -1,4 +1,9 @@
 ## 1 - Screenshots of the serverless function deployments
+### **Azure**
+<img width="1470" alt="Screenshot 2024-10-02 at 18 02 44" src="https://github.com/user-attachments/assets/7415e066-81c5-4fd5-9c3a-f32baf7d81b3">
+<img width="1470" alt="Screenshot 2024-10-02 at 18 18 05" src="https://github.com/user-attachments/assets/4efe0054-024c-4b02-8644-4331029ed77e">
+
+### **GCP**
 
 ## 2 - Code and configuration for the GitHub cron job / Github Action workflow
 
