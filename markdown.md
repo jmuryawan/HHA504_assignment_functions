@@ -4,6 +4,8 @@
 <img width="1470" alt="Screenshot 2024-10-02 at 18 18 05" src="https://github.com/user-attachments/assets/4efe0054-024c-4b02-8644-4331029ed77e">
 
 ### **GCP**
+<img width="1463" alt="Screenshot 2024-10-02 at 19 28 37" src="https://github.com/user-attachments/assets/f9229f52-8754-4814-b966-ec8ae8aa242f">
+<img width="1470" alt="Screenshot 2024-10-02 at 19 25 58" src="https://github.com/user-attachments/assets/dced658f-7800-4c95-ae02-0195226d5f23">
 
 ## 2 - Code and configuration for the GitHub cron job / Github Action workflow
 
