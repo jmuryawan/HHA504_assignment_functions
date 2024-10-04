@@ -9,6 +9,29 @@
 
 ## 2 - Code and configuration for the GitHub cron job / Github Action workflow
 
+
+
+    # This is a basic workflow to help you get started with Actions
+ 
+    name:
+      First Cron Job
+ 
+      # Controls when the workflow will run on:
+      # Triggers the workflow every 5 minutes schedule:
+        - cron: "*/5 * * * *"
+ 
+          # A workflow run is made up of one or more jobs that can run sequentially or in parallel jobs:
+      # This workflow contains a single job called "cron"
+      cron:
+        # The type of runner that the job will run on
+        runs-on: ubuntu-latest
+ 
+        # Steps represent a sequence of tasks that will be executed as part of the job steps:
+          # Runs a single command using the runners shell
+          - name: Run a one-line script
+            run: echo Hello, world!'''
+        
+        
 ## 3 - Documentation of the GCP Cloud Scheduler setup
   - Insert text here
 ## 4 - A brief reflection on the use cases, benefits, and limitations of serverless functions 
